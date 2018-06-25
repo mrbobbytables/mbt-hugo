@@ -1,8 +1,8 @@
 +++
 
 title = "KubeconEU: Office Hours Live!"
-time_start = 2018-05-11T12:00:00
-time_end = 2018-05-11T12:30:00
+time_start = 2018-05-04T12:00:00
+time_end = 2018-05-04T12:30:00
 abstract = ""
 abstract_short = ""
 event = "KubeconEU"
