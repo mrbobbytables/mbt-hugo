@@ -11,7 +11,7 @@ location = "San Diego Supercomputer Center (SDSC) at UC San Diego"
 selected = false
 url_pdf = ""
 url_slides = "https://speakerdeck.com/mrbobbytables/kubernetes-the-next-research-platform"
-url_video = ""
+url_video = "https://youtu.be/Ql5FykmcYxs?list=PL052H4iYGzyuEzvHCKyOlYb4TJKpu7NPv"
 url_code = ""
 math = false
 highlight = false
