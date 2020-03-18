@@ -1,6 +1,6 @@
 +++
 
-title = "CNCF Research User Group KubeConEU 2020"
+title = "CNCF Research User Group KubeConEU 2020 [Event Postponed]"
 time_start = 2020-03-31T14:35:00
 time_end = 2019-11-20T15:10:00
 abstract = ""
