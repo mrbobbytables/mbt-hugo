@@ -27,9 +27,9 @@ enableGitInfo = false
   font = "default"
 
   name = "Bob Killen"
-  role = "Senior Research Cloud Administrator"
+  role = "Program Manager"
 
-  organizations = [ { name = "University of Michigan", url = "https://arc-ts.umich.edu/" } ]
+  organizations = [ { name = "Google", url = "https://opensource.google/" } ]
 
   gravatar = false
   avatar = "BobKillen.jpeg"
