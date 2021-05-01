@@ -1,6 +1,6 @@
 +++
 
-title = "CNCF Research User Group KubeConEU 2020"
+title = "Intro to the CNCF Research User Group"
 time_start = 2020-08-18T17:45:00
 time_end = 2020-08-18T18:20:00
 abstract = ""
@@ -10,8 +10,8 @@ event_url = "https://sched.co/ZeuD"
 location = ""
 selected = false
 url_pdf = ""
-url_slides = ""
-url_video = ""
+url_slides = "https://speakerdeck.com/mrbobbytables/intro-to-the-cncf-research-user-group"
+url_video = "https://www.youtube.com/watch?v=ryvjz_elPGk"
 url_code = ""
 math = false
 highlight = false

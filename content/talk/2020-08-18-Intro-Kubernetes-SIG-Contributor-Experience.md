@@ -10,8 +10,8 @@ event_url = "https://sched.co/c9yh"
 location = ""
 selected = false
 url_pdf = ""
-url_slides = ""
-url_video = ""
+url_slides = "https://speakerdeck.com/mrbobbytables/intro-kubernetes-sig-contributor-experience"
+url_video = "https://www.youtube.com/watch?v=VeCMQoNHFMU"
 url_code = ""
 math = false
 highlight = false
