@@ -24,7 +24,7 @@ personal_footer = "**TL;DR non-speaker bio version:** What can I say, I'm a [ner
       "Avid Reader",
       "Board and Video Games",
       "Weightlifting",
-      "D&D"
+      "TTRGs"
     ]
   
 +++

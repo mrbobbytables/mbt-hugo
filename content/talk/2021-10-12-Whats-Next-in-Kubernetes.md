@@ -2,7 +2,7 @@
 
 title = "What's next in Kubernetes"
 time_start = 2021-10-12T12:00:00
-time_end = 2020-10-12T12:20:00
+time_end = 2021-10-12T12:20:00
 abstract = ""
 abstract_short = ""
 event = "Google Next"

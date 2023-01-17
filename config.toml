@@ -80,7 +80,12 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "//twitter.com/mrbobbytables"
+    link = "https://twitter.com/mrbobbytables"
+
+  [[params.social]]
+    icon = "mastodon"
+    icon_pack = "fab"
+    link = "https://hachyderm.io/@mrbobbytables"
 
   [[params.social]]
     icon = "github"
